@@ -1,0 +1,44 @@
+.carouselImg {
+    height: 80vh;
+}
+
+.pic {
+    width: 60%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cardCol {
+    text-align: center;
+}
+
+.cards {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgGuitar {
+    width: 500px;
+    height: 500px;
+}
+
+.rowwimg {
+    text-align: center;
+}
+
+.coltxt {
+    margin-top: 30vh;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border: 1px solid rgb(175, 175, 175);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.backingA p{
+    margin-right: 1px;
+}
